@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Currently working on:** PhoneHub 
-- 🌱 **Currently learning:** AWS
-- 👯 **Looking to collaborate on:** Open-source projects or innovative web apps.
-- 🤔 **Looking for help with:** Front end development
-- 💬 **Ask me about:** Front-end development, responsive design, or modern web technologies.
-- 📫 **How to reach me:** cleevephilip.wong@hcdc.edu.ph
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** 
+🔭 Currently working on: PhoneHub – a smart, streamlined phone management system.
+🌱 Currently learning: AWS and cloud computing to expand my backend skills.
+👯 Looking to collaborate on: Open-source projects and cutting-edge web applications.
+🤝 Open to: Freelance projects, mentorship, and tech talks.
+💬 Ask me about: Front-end development, responsive design, and modern web technologies.
+📫 Reach me at: cleevephilip.wong@hcdc.edu.ph
+😄 Pronouns: He/Him
+⚡ Fun fact: I love combining technology with creativity to build engaging digital experiences!
 
 ## 🛠️ Technologies & Tools
 
@@ -49,26 +49,26 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I'm proud of:
 
-- **[Project Name](https://github.com/CleevePhilip/Project-Name):** A brief description of the project.
-- **[Project Name](https://github.com/CleevePhilip/Project-Name):** A brief description of the project.
-- **[Project Name](https://github.com/CleevePhilip/Project-Name):** A brief description of the project.
+🚀 PhoneHub (In Progress)
+🔹 A smart phone management system for better connectivity and device control. [![(https://github.com/CleevePhilip/PhoneHub])
+🛍️ Dress Code Scanner
+🔹 A computer vision-based system to enforce dress code policies using AI. [![(https://github.com/CleevePhilip/DresScan])
 
 ## 🌟 Support Me
 
 If you find my work interesting or helpful, consider supporting me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/yourusername)
+
 
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations, collaborations, or just a friendly chat. Feel free to reach out to me via:
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **Portfolio:** [Your Portfolio Website]
+- **Email:** [cleevephilip.wong@hcdc.edu.ph]
+- **LinkedIn:** [https://www.linkedin.com/in/cleeve-philip-wong-251b33279/]
+- **Portfolio:** [https://portfoliocleeve.vercel.app/]
 
 ---
 
-⭐️ From [Your Name](https://github.com/CleevePhilip) 
+⭐️ From [Cleeve Wong](https://github.com/CleevePhilip) 
