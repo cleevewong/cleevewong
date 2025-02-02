@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ## 🚀 What I'm Up To
 
-🔭 Currently working on: PhoneHub – a smart, streamlined phone management system.
-🌱 Currently learning: AWS and cloud computing to expand my backend skills.
-👯 Looking to collaborate on: Open-source projects and cutting-edge web applications.
-🤝 Open to: Freelance projects, mentorship, and tech talks.
-💬 Ask me about: Front-end development, responsive design, and modern web technologies.
-📫 Reach me at: cleevephilip.wong@hcdc.edu.ph
-😄 Pronouns: He/Him
-⚡ Fun fact: I love combining technology with creativity to build engaging digital experiences!
+-🔭 **Currently working on:** PhoneHub – a smart, streamlined phone management system.
+-🌱 **Currently learning:** AWS and cloud computing to expand my backend skills.
+-👯 **Looking to collaborate on:** Open-source projects and cutting-edge web applications.
+-🤝 **Open to:** Freelance projects, mentorship, and tech talks.
+-💬 **Ask me about:** Front-end development, responsive design, and modern web technologies.
+-📫 **Reach me at:** cleevephilip.wong@hcdc.edu.ph
+-😄 **Pronouns:** He/Him
+-⚡ **Fun fact:** I love combining technology with creativity to build engaging digital experiences!
 
 ## 🛠️ Technologies & Tools
 
