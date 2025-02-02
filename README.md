@@ -1,4 +1,3 @@
-# Hi there, I'm Cleeve Wong! 👋
 ![Header](./assets/header.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/CleevePhilip?label=Follow&style=social)](https://github.com/CleevePhilip)
