@@ -50,8 +50,11 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I'm proud of:
 
 🚀 PhoneHub (In Progress)
+
 🔹 A smart phone management system for better connectivity and device control. [![(https://github.com/CleevePhilip/PhoneHub])
+
 🛍️ Dress Code Scanner
+
 🔹 A computer vision-based system to enforce dress code policies using AI. [![(https://github.com/CleevePhilip/DresScan])
 
 ## 🌟 Support Me
@@ -65,9 +68,9 @@ If you find my work interesting or helpful, consider supporting me:
 
 I'm always open to interesting conversations, collaborations, or just a friendly chat. Feel free to reach out to me via:
 
-- **Email:** [cleevephilip.wong@hcdc.edu.ph]
-- **LinkedIn:** [https://www.linkedin.com/in/cleeve-philip-wong-251b33279/]
-- **Portfolio:** [https://portfoliocleeve.vercel.app/]
+- **Email:** cleevephilip.wong@hcdc.edu.ph
+- **LinkedIn:** https://www.linkedin.com/in/cleeve-philip-wong-251b33279/
+- **Portfolio:** https://portfoliocleeve.vercel.app/
 
 ---
 
