@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ## 🚀 What I'm Up To
 
--🔭 **Currently working on:** PhoneHub – a smart, streamlined phone management system.
+-🔭 **Currently working on:** PhoneHub – an eCommerce web app that sells phones and accessories.
 -🌱 **Currently learning:** AWS and cloud computing to expand my backend skills.
 -👯 **Looking to collaborate on:** Open-source projects and cutting-edge web applications.
 -🤝 **Open to:** Freelance projects, mentorship, and tech talks.
