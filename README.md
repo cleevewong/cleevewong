@@ -17,41 +17,55 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 -😄 **Pronouns:** He/Him
 -⚡ **Fun fact:** I love combining technology with creativity to build engaging digital experiences!
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with:
-
+### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material_UI-00796B?style=for-the-badge&logo=material-ui&logoColor=white)  
+
+### ⚡ Animations
+![React Motion](https://img.shields.io/badge/React_Motion-00D8FF?style=for-the-badge&logo=react&logoColor=black)  
+![React Spring](https://img.shields.io/badge/React_Spring-FF6C37?style=for-the-badge&logo=react&logoColor=black)  
+
+### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+
+### 🔥 Database & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![React Motion](https://img.shields.io/badge/React_Motion-00D8FF?style=for-the-badge&logo=react&logoColor=black)  
-![React Spring](https://img.shields.io/badge/React_Spring-FF6C37?style=for-the-badge&logo=react&logoColor=black)  
+
+### ⚙️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-24292F?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### 🖥️ IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+
+### 🚀 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material_UI-00796B?style=for-the-badge&logo=material-ui&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-24292F?style=for-the-badge&logo=github&logoColor=white)  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF9800?style=for-the-badge&logo=ultralytics&logoColor=white)
 
+### 🤖 AI & Computer Vision
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF9800?style=for-the-badge&logo=ultralytics&logoColor=white)  
 
 ## 📈 GitHub Stats
 
