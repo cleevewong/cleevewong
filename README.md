@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 -🤝 **Open to:** Freelance projects, mentorship, and tech talks.
 -💬 **Ask me about:** Front-end development, responsive design, and modern web technologies.
 -📫 **Reach me at:** cleevephilip.wong@hcdc.edu.ph
--😄 **Pronouns:** He/Him
 -⚡ **Fun fact:** I love combining technology with creativity to build engaging digital experiences!
 
 ## 🛠️ Tech Stack
