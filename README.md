@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ### 🤖 **AI & Languages**
 | **AI/CV** | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black) | |
-|---|---|---|
+|---|---|
 
 ### 🎨 **Animations**
 | ![React Motion](https://img.shields.io/badge/React_Motion-00D8FF?style=flat&logo=react&logoColor=black) | ![React Spring](https://img.shields.io/badge/React_Spring-FF6C37?style=flat&logo=react&logoColor=black) |
