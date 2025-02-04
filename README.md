@@ -37,9 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ### 🤖 **AI & Languages**
 | **AI/CV** | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black) | |
-|---|---|---|---|
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white) | |
+|---|---|---|
 
 ### 🎨 **Animations**
 | ![React Motion](https://img.shields.io/badge/React_Motion-00D8FF?style=flat&logo=react&logoColor=black) | ![React Spring](https://img.shields.io/badge/React_Spring-FF6C37?style=flat&logo=react&logoColor=black) |
