@@ -36,8 +36,9 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 | **IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) |
 
 ### 🤖 **AI & Languages**
-| **AI/CV** | ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black) | |
+| **AI/CV** | **Frameworks** |
 |---|---|
+| ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white) |
 
 ### 🎨 **Animations**
 | ![React Motion](https://img.shields.io/badge/React_Motion-00D8FF?style=flat&logo=react&logoColor=black) | ![React Spring](https://img.shields.io/badge/React_Spring-FF6C37?style=flat&logo=react&logoColor=black) |
