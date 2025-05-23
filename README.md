@@ -1,7 +1,9 @@
 <!-- Header -->
+<!-- Header -->
 <p align="center">
-  <img src="header.png" alt="Cleeve Wong - Frontend Developer" width="400"/>
+  <img src="header.png" alt="Cleeve Wong - Frontend Developer" style="max-width: 100%; height: auto; max-height: 250px;" />
 </p>
+
 
 <!-- Social Badges -->
 <p align="center">
