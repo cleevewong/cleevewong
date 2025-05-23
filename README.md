@@ -1,49 +1,49 @@
-<!-- Cosmic Header -->
+<!-- Stellar Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/cosmic-banner.gif" alt="Cleeve Wong - Digital Cosmos" width="100%">
+  <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/stellar-waves.gif" alt="Cleeve Wong - Cosmic Code" width="100%">
 </p>
 
-<!-- Glowing Social Orbit -->
+<!-- Orbiting Social Links -->
 <p align="center">
   <a href="https://github.com/CleevePhilip">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=9FEAF9&labelColor=0D1117" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=9FEAF9&labelColor=0D1117" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/cleeve-philip-wong-251b33279/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF9FE5&labelColor=0D1117" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FF9FE5&labelColor=0D1117" alt="LinkedIn">
   </a>
   <a href="mailto:cleevephilip.wong@hcdc.edu.ph">
-    <img src="https://img.shields.io/badge/Contact-FF9FE5?style=for-the-badge&logo=mail.ru&logoColor=9FEAF9&labelColor=0D1117" alt="Email">
+    <img src="https://img.shields.io/badge/Contact-FF9FE5?style=flat-square&logo=mail.ru&logoColor=9FEAF9&labelColor=0D1117" alt="Email">
   </a>
 </p>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/astronaut.gif" width="40"> Digital Explorer
+# <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/astronaut.gif" width="35"> Cosmic Code Crafter
 
-**Frontend Developer | UI Alchemist | Code Poet**
+**Frontend Architect | UI Sorcerer | Digital Dreamweaver**
 
-Transforming ideas into pixel-perfect realities with React and Next.js magic. Specializing in creating interfaces that feel as good as they look.
-
----
-
-## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/tech-sphere.gif" width="30"> Tech Universe
-
-### **Frontend Constellations**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-
-### **Backend Planets**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
-
-### **Design Nebulas**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
+I weave elegant, pixel-perfect interfaces with the magic of React and Next.js, crafting digital experiences that are as intuitive as they are stunning.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/stats-comet.gif" width="30"> Code Galaxy Stats
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/tech-sphere.gif" width="30"> Tech Cosmos
+
+### **Frontend Stars**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117)
+
+### **Backend Orbits**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117)
+
+### **Design Galaxies**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117)
+
+---
+
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/stats-comet.gif" width="30"> Code Constellation Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=dark&bg_color=0D1117&title_color=9FEAF9&icon_color=FF9FE5&text_color=FFFFFF&hide_border=true" width="48%">
@@ -56,7 +56,7 @@ Transforming ideas into pixel-perfect realities with React and Next.js magic. Sp
 
 ---
 
-## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/trophy-star.gif" width="30"> Cosmic Achievements
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/trophy-star.gif" width="30"> Stellar Milestones
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=onedark&no-frame=true&title_color=9FEAF9&icon_color=FF9FE5&row=2&column=4">
@@ -64,23 +64,23 @@ Transforming ideas into pixel-perfect realities with React and Next.js magic. Sp
 
 ---
 
-## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/rocket.gif" width="30"> Recent Code Voyages
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/rocket.gif" width="30"> Recent Cosmic Ventures
 
 ```javascript
-const myLatestAdventures = [
+const myStellarProjects = [
   {
-    name: "E-Commerce Platform",
+    name: "E-Commerce Nebula",
     tech: ["Next.js", "Stripe", "Tailwind"],
-    status: "Orbiting Production"
+    status: "In Stellar Orbit"
   },
   {
     name: "AI Dress Code Scanner",
     tech: ["Python", "YOLOv8", "OpenCV"],
-    status: "Launching Soon" 
+    status: "Igniting Thrusters"
   },
   {
-    name: "UI Component Library",
+    name: "UI Component Cosmos",
     tech: ["React", "Storybook", "Figma"],
-    status: "Expanding Universe"
+    status: "Expanding Horizons"
   }
 ];
