@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="header.png" alt="Cleeve Wong - Frontend Developer" width="200"/>
+  <img src="header.png" alt="Cleeve Wong - Frontend Developer" width="400"/>
 </p>
 
 <!-- Social Badges -->
