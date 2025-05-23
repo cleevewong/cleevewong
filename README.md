@@ -1,6 +1,14 @@
-# 🚀 Cleeve Philip Wong – Frontend Developer
+<h1 align="center">🚀 Cleeve Philip Wong</h1>
+<p align="center"><strong>Frontend Architect | UI Engineer | Developer Advocate</strong></p>
 
-Hi, I’m **Cleeve**, a Frontend Architect who crafts scalable and intuitive web interfaces. I specialize in **React**, **Next.js**, and modern tooling to bring designs to life with performance and clarity.
+<p align="center">
+  Building sleek, scalable, and user-first experiences with modern JavaScript tools.
+  I turn ideas into pixel-perfect interfaces with clarity and purpose.
+</p>
+
+---
+
+## ✨ Philosophy
 
 > **Design with clarity. Code with purpose. Ship with confidence.**
 
@@ -32,7 +40,9 @@ Hi, I’m **Cleeve**, a Frontend Architect who crafts scalable and intuitive web
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=algolia&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -44,8 +54,9 @@ Hi, I’m **Cleeve**, a Frontend Architect who crafts scalable and intuitive web
 
 ---
 
-## 💬 Collaborate With Me
+## 💬 Open to Collaborations
 
-Passionate about clean UIs, smart architecture, and purposeful products. Open to **collaborations**, **projects**, or **ideas** that push the web forward.
+I’m always open to working on exciting ideas, solving real-world problems, or contributing to impactful projects.  
+If you're passionate about clean UIs and thoughtful development—let’s talk.
 
-
+<p align="center"><strong>Stay stellar. 🌌</strong></p>
