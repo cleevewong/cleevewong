@@ -1,9 +1,9 @@
 ![Header](./assets/header.png)
 
 <p align="center">
-  <a href="https://github.com/CleevePhilip"><img src="https://img.shields.io/github/followers/CleevePhilip?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/cleeve-philip-wong-251b33279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social"></a>
+  <a href="https://github.com/CleevePhilip"><img src="https://img.shields.io/github/followers/CleevePhilip?label=Follow&style=social&color=00FFFF"></a>
+  <a href="https://www.linkedin.com/in/cleeve-philip-wong-251b33279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=flat&logo=linkedin&logoColor=black"></a>
+  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social&color=00FFFF"></a>
 </p>
 
 ---
@@ -30,52 +30,52 @@ Welcome to my GitHub! I'm **Cleeve Wong**, a passionate **Front-End Developer** 
 
 ### 🌐 Frontend & Mobile
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-00796B?style=flat&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/React-00FFFF?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-00FFFF?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FFFF?style=flat&logo=typescript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-00FFFF?style=flat&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS-00FFFF?style=flat&logo=css3&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-00FFFF?style=flat&logo=tailwind-css&logoColor=black)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-00FFFF?style=flat&logo=daisyui&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00FFFF?style=flat&logo=bootstrap&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material_UI-00FFFF?style=flat&logo=mui&logoColor=black)
 
 ### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00FFFF?style=flat&logo=node.js&logoColor=black)
+![Django](https://img.shields.io/badge/Django-00FFFF?style=flat&logo=django&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-00FFFF?style=flat&logo=laravel&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-00FFFF?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00FFFF?style=flat&logo=mysql&logoColor=black)
 
 ### 💻 Tools & IDEs
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-24292F?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00FFFF?style=flat&logo=git&logoColor=black)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-00FFFF?style=flat&logo=github&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-00FFFF?style=flat&logo=postman&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-00FFFF?style=flat&logo=visual-studio-code&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-00FFFF?style=flat&logo=pycharm&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-00FFFF?style=flat&logo=eclipse&logoColor=black)
 
 ### 🤖 AI & Machine Learning
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00FFFF?style=flat&logo=tensorflow&logoColor=black)
 
 ### ✨ Animations
 
-![React Motion](https://img.shields.io/badge/React_Motion-00D8FF?style=flat&logo=react&logoColor=black)
-![React Spring](https://img.shields.io/badge/React_Spring-FF6C37?style=flat&logo=react&logoColor=black)
+![React Motion](https://img.shields.io/badge/React_Motion-00FFFF?style=flat&logo=react&logoColor=black)
+![React Spring](https://img.shields.io/badge/React_Spring-00FFFF?style=flat&logo=react&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevePhilip&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=merko&bg_color=00FFFF22&text_color=00FFFF&icon_color=00FFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevePhilip&layout=compact&theme=merko&bg_color=00FFFF22&text_color=00FFFF&icon_color=00FFFF" width="48%" />
 </p>
 
 ---
@@ -83,16 +83,14 @@ Welcome to my GitHub! I'm **Cleeve Wong**, a passionate **Front-End Developer** 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=algolia&no-frame=true&title_color=00FFFF&icon_color=00FFFF" />
 </p>
 
 ---
 
 ## 🚩 Featured Projects
 
-### 🔧 [PhoneHub (In Progress)](https://github.com/CleevePhilip/PhoneHub)
-
-A sleek eCommerce web app for smartphones and accessories.
+###commercial platform for smartphones and accessories.
 
 ### 🤖 [Dress Code Scanner](https://github.com/CleevePhilip/DresScan)
 
@@ -104,7 +102,7 @@ An AI-powered dress code enforcement system using computer vision.
 
 If you like what I do, consider showing your support:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-00FFFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 ---
 
