@@ -1,103 +1,86 @@
-<!-- Elegant GitHub Banner -->
-<!-- Header -->
+<!-- Cosmic Header -->
 <p align="center">
-  <img src="header.png" alt="Cleeve Wong - Frontend Developer" width="100%" height="auto">
+  <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/cosmic-banner.gif" alt="Cleeve Wong - Digital Cosmos" width="100%">
 </p>
 
-<!-- Social Links -->
+<!-- Glowing Social Orbit -->
 <p align="center">
   <a href="https://github.com/CleevePhilip">
-    <img src="https://img.shields.io/badge/GitHub-1a1b41?style=for-the-badge&logo=github&logoColor=00FFE7" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=9FEAF9&labelColor=0D1117" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/cleeve-philip-wong-251b33279/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b41?style=for-the-badge&logo=linkedin&logoColor=00FFE7" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF9FE5&labelColor=0D1117" alt="LinkedIn">
   </a>
   <a href="mailto:cleevephilip.wong@hcdc.edu.ph">
-    <img src="https://img.shields.io/badge/Email-1a1b41?style=for-the-badge&logo=gmail&logoColor=FF4CC4" alt="Email">
-  </a>
-  <a href="https://portfoliocleeve.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-1a1b41?style=for-the-badge&logo=aboutdotme&logoColor=00FFE7" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Contact-FF9FE5?style=for-the-badge&logo=mail.ru&logoColor=9FEAF9&labelColor=0D1117" alt="Email">
   </a>
 </p>
 
 ---
 
-# 👋 Hey, I’m Cleeve Wong  
-### 🎯 Frontend Developer | UI Engineer | React Enthusiast  
+# <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/astronaut.gif" width="40"> Digital Explorer
 
-Crafting seamless, accessible, and visually engaging digital experiences using **React**, **Next.js**, and **Tailwind CSS**.
+**Frontend Developer | UI Alchemist | Code Poet**
 
----
-
-## 🚧 Currently Working On  
-- 🛍 **[PhoneHub](https://github.com/CleevePhilip/PhoneHub)** — Modern eCommerce with Stripe  
-- 🧠 **Mastering AWS & Serverless Architecture**  
-- 🌐 Learning **Web3 & Blockchain** Fundamentals  
-- 🧩 Building scalable design systems with **Storybook**
+Transforming ideas into pixel-perfect realities with React and Next.js magic. Specializing in creating interfaces that feel as good as they look.
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/tech-sphere.gif" width="30"> Tech Universe
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-1a1b41?style=for-the-badge&logo=react&logoColor=00FFE7)
-![Next.js](https://img.shields.io/badge/-Next.js-1a1b41?style=for-the-badge&logo=nextdotjs&logoColor=00FFE7)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b41?style=for-the-badge&logo=typescript&logoColor=00FFE7)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-1a1b41?style=for-the-badge&logo=tailwindcss&logoColor=00FFE7)
+### **Frontend Constellations**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
 
-**Backend & Tools**  
-![Node.js](https://img.shields.io/badge/-Node.js-1a1b41?style=for-the-badge&logo=nodedotjs&logoColor=00FFE7)
-![Firebase](https://img.shields.io/badge/-Firebase-1a1b41?style=for-the-badge&logo=firebase&logoColor=FF4CC4)
-![GraphQL](https://img.shields.io/badge/-GraphQL-1a1b41?style=for-the-badge&logo=graphql&logoColor=FF4CC4)  
-![VSCode](https://img.shields.io/badge/-VS_Code-1a1b41?style=for-the-badge&logo=visualstudiocode&logoColor=00FFE7)
-![Git](https://img.shields.io/badge/-Git-1a1b41?style=for-the-badge&logo=git&logoColor=FF4CC4)
-![Figma](https://img.shields.io/badge/-Figma-1a1b41?style=for-the-badge&logo=figma&logoColor=FF4CC4)
+### **Backend Planets**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
+
+### **Design Nebulas**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
 
 ---
 
-## 📊 GitHub Stats  
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/stats-comet.gif" width="30"> Code Galaxy Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b41&title_color=00FFE7&icon_color=FF4CC4&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CleevePhilip&theme=radical&hide_border=true&background=1a1b41&stroke=FF4CC4&ring=00FFE7&fire=FF4CC4&currStreakNum=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=dark&bg_color=0D1117&title_color=9FEAF9&icon_color=FF9FE5&text_color=FFFFFF&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CleevePhilip&theme=dark&background=0D1117&stroke=FF9FE5&ring=9FEAF9&fire=FF9FE5&currStreakNum=FFFFFF" width="48%">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevePhilip&layout=compact&theme=radical&hide_border=true&bg_color=1a1b41&title_color=00FFE7&text_color=FFFFFF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevePhilip&layout=compact&theme=dark&bg_color=0D1117&title_color=9FEAF9&text_color=FFFFFF&hide_border=true" width="48%">
 </p>
 
 ---
 
-## 🏆 Achievements  
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/trophy-star.gif" width="30"> Cosmic Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=radical&no-frame=true&title_color=00FFE7&icon_color=FF4CC4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=onedark&no-frame=true&title_color=9FEAF9&icon_color=FF9FE5&row=2&column=4">
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## <img src="https://raw.githubusercontent.com/CleevePhilip/CleevePhilip/main/assets/rocket.gif" width="30"> Recent Code Voyages
 
-- **📱 [PhoneHub](https://github.com/CleevePhilip/PhoneHub)**  
-  *Next.js + Stripe – eCommerce experience from scratch*
-
-- **🧠 [DresScan](https://github.com/CleevePhilip/DresScan)**  
-  *AI-Powered school dress code monitor using YOLOv8*
-
-- **🎨 [UI Component Library](https://github.com/CleevePhilip/ui-library)**  
-  *Reusable React components with interactive Storybook docs*
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="mailto:cleevephilip.wong@hcdc.edu.ph"><img src="https://img.shields.io/badge/Email-1a1b41?style=for-the-badge&logo=gmail&logoColor=FF4CC4" /></a>
-  <a href="https://portfoliocleeve.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b41?style=for-the-badge&logo=aboutdotme&logoColor=00FFE7" /></a>
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/BuyMeCoffee-1a1b41?style=for-the-badge&logo=buymeacoffee&logoColor=FF4CC4" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CleevePhilip&color=00FFE7&style=flat" alt="Profile views"/>
-  <br/>
-  <i style="color:#FFFFFF">Thanks for stopping by ❤️</i>
-</p>
+```javascript
+const myLatestAdventures = [
+  {
+    name: "E-Commerce Platform",
+    tech: ["Next.js", "Stripe", "Tailwind"],
+    status: "Orbiting Production"
+  },
+  {
+    name: "AI Dress Code Scanner",
+    tech: ["Python", "YOLOv8", "OpenCV"],
+    status: "Launching Soon" 
+  },
+  {
+    name: "UI Component Library",
+    tech: ["React", "Storybook", "Figma"],
+    status: "Expanding Universe"
+  }
+];
