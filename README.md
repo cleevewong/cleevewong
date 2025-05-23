@@ -1,7 +1,7 @@
 <!-- Elegant GitHub Banner -->
 <!-- Header -->
 <p align="center">
-  <img src="header.png" alt="Cleeve Wong - Frontend Developer" width="100%" height="200">
+  <img src="header.png" alt="Cleeve Wong - Frontend Developer" width="100%" height="auto">
 </p>
 
 <!-- Social Links -->
