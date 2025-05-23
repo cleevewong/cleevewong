@@ -1,125 +1,104 @@
+<!-- Header Image -->
+<p align="center">
+  <img src="./assets/header.png" alt="Cleeve Wong - Frontend Developer" width="800"/>
+</p>
 
-<!-- Socials -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/CleevePhilip">
-    <img src="https://img.shields.io/github/followers/CleevePhilip?label=Follow&style=social&color=00CED1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/cleeve-philip-wong-251b33279/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8BE9FD?style=flat&logo=linkedin&logoColor=black">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social&color=8BE9FD">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:cleevephilip.wong@hcdc.edu.ph">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-# 👋 Hello There!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30" /> Hello There!
 
-Welcome to my GitHub! I'm **Cleeve Wong**, a passionate **Front-End Developer** focused on crafting clean, modern, and user-centric digital experiences.
-
----
-
-## 🚀 What I'm Working On
-
-- 🔭 **Building:** PhoneHub – an eCommerce platform for phones & accessories  
-- 🌱 **Learning:** AWS and cloud fundamentals to sharpen my backend skills  
-- 🤝 **Open To:** Freelance gigs, mentorship, and speaking opportunities  
-- 👯 **Collaborating On:** Open-source projects & innovative web apps  
-- 💬 **Ask Me About:** Front-end development, responsive design, UI/UX  
-- 📫 **Reach Out:** `cleevephilip.wong@hcdc.edu.ph`  
-- ⚡ **Fun Fact:** I blend tech + creativity to build meaningful digital tools  
+I'm **Cleeve Wong**, a passionate **Frontend Developer** specializing in building modern, performant web applications with React and Next.js. I focus on creating intuitive user experiences with clean, maintainable code.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Current Focus
 
-### 🌐 Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-00CED1?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-00CED1?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=flat&logo=next.js&logoColor=00CED1)
-![JavaScript](https://img.shields.io/badge/JavaScript-00CED1?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00CED1?style=flat&logo=typescript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-00CED1?style=flat&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-00CED1?style=flat&logo=css3&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-00CED1?style=flat&logo=tailwind-css&logoColor=black)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-00CED1?style=flat&logo=daisyui&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-00CED1?style=flat&logo=bootstrap&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material_UI-00CED1?style=flat&logo=mui&logoColor=black)
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-00CED1?style=flat&logo=node.js&logoColor=black)
-![Django](https://img.shields.io/badge/Django-00CED1?style=flat&logo=django&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-00CED1?style=flat&logo=laravel&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-00CED1?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00CED1?style=flat&logo=mysql&logoColor=black)
-
-### 💻 Tools & IDEs
-
-![Git](https://img.shields.io/badge/Git-00CED1?style=flat&logo=git&logoColor=black)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-00CED1?style=flat&logo=github&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-00CED1?style=flat&logo=postman&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-00CED1?style=flat&logo=visual-studio-code&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-00CED1?style=flat&logo=pycharm&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-00CED1?style=flat&logo=eclipse&logoColor=black)
-
-### 🤖 AI & Machine Learning
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00CED1?style=flat&logo=ultralytics&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00CED1?style=flat&logo=tensorflow&logoColor=black)
-
-### ✨ Animations
-
-![React Motion](https://img.shields.io/badge/React_Motion-00CED1?style=flat&logo=react&logoColor=black)
-![React Spring](https://img.shields.io/badge/React_Spring-00CED1?style=flat&logo=react&logoColor=black)
+- 🔭 Building **[PhoneHub](https://github.com/CleevePhilip/PhoneHub)** - Next.js eCommerce platform
+- 🌱 Learning **AWS Cloud Architecture** & **Advanced React Patterns**
+- 💡 Exploring **Web Performance Optimization** techniques
+- 🎨 Designing **accessible** and **responsive** UIs
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="25" height="25" /> Technical Toolkit
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Mobile & Backend
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="25" height="25" /> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=merko&bg_color=FAFAFA&text_color=1A1A1A&icon_color=00CED1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevePhilip&layout=compact&theme=merko&bg_color=FAFAFA&text_color=1A1A1A&icon_color=00CED1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CleevePhilip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CleevePhilip&theme=radical&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleevePhilip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="48%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="25" height="25" /> Featured Projects
+
+### 📱 [PhoneHub](https://github.com/CleevePhilip/PhoneHub)
+Modern eCommerce platform built with Next.js, TypeScript, and Tailwind CSS
+
+### 👔 [DresScan](https://github.com/CleevePhilip/DresScan)
+AI-powered dress code detection system using computer vision (YOLOv8)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25" /> Let's Collaborate!
+
+I'm always open to:
+- 🤝 **Freelance opportunities**
+- 🌱 **Mentoring junior developers**
+- 🚀 **Exciting open-source projects**
+- 💬 **Tech discussions**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=flat&no-frame=true&title_color=00CED1&icon_color=00CED1" />
+  <a href="mailto:cleevephilip.wong@hcdc.edu.ph">
+    <img src="https://img.shields.io/badge/Contact_Me-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact">
+  </a>
+  <a href="https://portfoliocleeve.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6BCB77?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-## 🚩 Featured Projects
-
-### 📱 PhoneHub
-*A commercial platform for smartphones and accessories.*
-
-### 🤖 [Dress Code Scanner](https://github.com/CleevePhilip/DresScan)
-An AI-powered dress code enforcement system using computer vision.
-
----
-
-## 💖 Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-8BE9FD?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
----
-
-## 📫 Let's Connect
-
-I'm always up for collaboration, mentorship, or just a friendly chat!
-
-- 📧 **Email:** `cleevephilip.wong@hcdc.edu.ph`  
-- 💼 **LinkedIn:** [cleeve-philip-wong-251b33279](https://www.linkedin.com/in/cleeve-philip-wong-251b33279/)  
-- 🌐 **Portfolio:** [portfoliocleeve.vercel.app](https://portfoliocleeve.vercel.app)
-
----
-
 <p align="center">
-  ⭐️ From <a href="https://github.com/CleevePhilip">Cleeve Wong</a>
+  <img src="https://komarev.com/ghpvc/?username=CleevePhilip&color=58A6FF&style=flat" alt="Profile views"/>
 </p>
