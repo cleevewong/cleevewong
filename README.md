@@ -14,8 +14,8 @@
 ╚══════════════════════════════════════════════════════════════╝
 
 $ whoami
-Cleeve Philip Wong
-Frontend Architect | UI Engineer | Developer Advocate
+> Cleeve Philip Wong
+> Frontend Architect | UI Engineer | Developer Advocate
 
 $ system --status
 ✔ OS: Developer Workstation v3.2.1
@@ -26,47 +26,41 @@ $ system --status
 
 $ stack --list
 FRONTEND:
-  ⚛️  React v18.2
-  🧭 Next.js v14
-  🪙 TypeScript v5.3
-  💨 Tailwind CSS v3.4
+  ⚛️  React v18.2      🧭 Next.js v14
+  🪙 TypeScript v5.3   💨 Tailwind CSS v3.4
 
 BACKEND:
-  🌿 Node.js v20
-  🔥 Firebase v10.7
+  🌿 Node.js v20       🔥 Firebase v10.7
 
 TOOLS:
-  ⚡ Vite v5.0
-  📦 pnpm v8.9
-  🧰 Git v2.40
-  ✅ ESLint v8.56
+  ⚡ Vite v5.0         📦 pnpm v8.9
+  🧰 Git v2.40         ✅ ESLint v8.56
   🧹 Prettier v3.1
 
 $ cat philosophy.txt
-"Design with clarity. Code with purpose. Ship with confidence."
+> "Design with clarity. Code with purpose. Ship with confidence."
 
 $ github --trophies
-█████████████████████████████████████████████████████████████
-█ Achievement Unlocked: Arctic Code Vault Contributor 2023 █
-█ Achievement Unlocked: Pull Shark                        █
-█ Achievement Unlocked: Star Gazer                         █
-█████████████████████████████████████████████████████████████
+┌───────────────────────────────────────────────────────┐
+│  ★ Arctic Code Vault Contributor (2023)              │
+│  ★ Pull Shark (2x)                                   │
+│  ★ Star Gazer (50+ repos)                            │
+└───────────────────────────────────────────────────────┘
 
 $ contact --info
-🌐 GitHub:    https://github.com/CleevePhilip
-💼 LinkedIn: https://linkedin.com/in/cleeve-philip-wong-251b33279
+🌐 GitHub:    github.com/CleevePhilip
+💼 LinkedIn: linkedin.com/in/cleeve-philip-wong-251b33279
 📧 Email:     cleevephilip.wong@hcdc.edu.ph
 
 $ help --collaborate
-Ready for collaborative development sessions.
 Available for:
 - Frontend architecture consulting
 - UI/UX engineering
-- Developer advocacy projects
+- Developer advocacy
 - Open source contributions
 
-Type: connect --with cleeve@terminal to initiate handshake protocol
+Run: connect --with cleeve@terminal
 
 $ exit
-System shutdown initiated...
-[Connection terminated]
+> Shutting down terminal session...
+> Goodbye! 👋
