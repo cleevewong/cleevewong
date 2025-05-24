@@ -1,67 +1,72 @@
-<h1 align="center">🖥️ Console Log: Cleeve Philip Wong</h1>
-<p align="center"><i>Frontend Architect | UI Engineer | Developer Advocate</i></p>
+╔══════════════════════════════════════════════════════════════╗
+║ ██████╗ ██╗     ███████╗███████╗██╗   ██╗███████╗            ║
+║██╔════╝ ██║     ██╔════╝██╔════╝██║   ██║██╔════╝            ║
+║██║  ███╗██║     █████╗  █████╗  ██║   ██║█████╗              ║
+║██║   ██║██║     ██╔══╝  ██╔══╝  ██║   ██║██╔══╝              ║
+║╚██████╔╝███████╗███████╗███████╗╚██████╔╝███████╗            ║
+║ ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝            ║
+║ ██╗    ██╗ ██████╗ ███╗   ██╗ ██████╗                        ║
+║ ██║    ██║██╔═══██╗████╗  ██║██╔════╝                        ║
+║ ██║ █╗ ██║██║   ██║██╔██╗ ██║██║  ███╗                       ║
+║ ██║███╗██║██║   ██║██║╚██╗██║██║   ██║                       ║
+║ ╚███╔███╔╝╚██████╔╝██║ ╚████║╚██████╔╝                       ║
+║  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝                        ║
+╚══════════════════════════════════════════════════════════════╝
 
-Booting system...
-User: cleevephilip.wong@hcdc.edu.ph
-Portfolio loading...
+$ whoami
+Cleeve Philip Wong
+Frontend Architect | UI Engineer | Developer Advocate
 
-Welcome to my terminal 👨‍💻
+$ system --status
+✔ OS: Developer Workstation v3.2.1
+✔ Shell: zsh 5.9
+✔ Terminal: Hyper
+✔ Memory: 32GB DDR5
+✔ Processor: AMD Ryzen 9 7900X
 
-Initializing stack...
+$ stack --list
+FRONTEND:
+  ⚛️  React v18.2
+  🧭 Next.js v14
+  🪙 TypeScript v5.3
+  💨 Tailwind CSS v3.4
 
-✔ React
-✔ Next.js
-✔ TypeScript
-✔ Tailwind CSS
-✔ Firebase
-✔ Vite
-✔ pnpm
-✔ Git, ESLint, Prettier
+BACKEND:
+  🌿 Node.js v20
+  🔥 Firebase v10.7
 
-System ready.
+TOOLS:
+  ⚡ Vite v5.0
+  📦 pnpm v8.9
+  🧰 Git v2.40
+  ✅ ESLint v8.56
+  🧹 Prettier v3.1
 
-yaml
-Copy
-Edit
+$ cat philosophy.txt
+"Design with clarity. Code with purpose. Ship with confidence."
 
----
+$ github --trophies
+█████████████████████████████████████████████████████████████
+█ Achievement Unlocked: Arctic Code Vault Contributor 2023 █
+█ Achievement Unlocked: Pull Shark                        █
+█ Achievement Unlocked: Star Gazer                         █
+█████████████████████████████████████████████████████████████
 
-## 📜 Philosophy
+$ contact --info
+🌐 GitHub:    https://github.com/CleevePhilip
+💼 LinkedIn: https://linkedin.com/in/cleeve-philip-wong-251b33279
+📧 Email:     cleevephilip.wong@hcdc.edu.ph
 
-> **Design with clarity. Code with purpose. Ship with confidence.**
+$ help --collaborate
+Ready for collaborative development sessions.
+Available for:
+- Frontend architecture consulting
+- UI/UX engineering
+- Developer advocacy projects
+- Open source contributions
 
----
+Type: connect --with cleeve@terminal to initiate handshake protocol
 
-## 🛠 Tech Stack
-
-| Category   | Tools |
-|------------|-------|
-| Frontend   | ⚛️ React, 🧭 Next.js, 🪙 TypeScript, 💨 Tailwind CSS |
-| Backend    | 🌿 Node.js, 🔥 Firebase |
-| Design     | 🎨 Figma |
-| Tooling    | ⚡ Vite, 📦 pnpm, 🧰 Git, ✅ ESLint, 🧹 Prettier |
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CleevePhilip&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-- GitHub → [@CleevePhilip](https://github.com/CleevePhilip)
-- LinkedIn → [Cleeve Philip Wong](https://www.linkedin.com/in/cleeve-philip-wong-251b33279/)
-- Email → [cleevephilip.wong@hcdc.edu.ph](mailto:cleevephilip.wong@hcdc.edu.ph)
-
----
-
-## 💬 Let’s Collaborate
-
-If you're building thoughtful, clean, and impactful digital experiences, I’d love to team up.
-
-ping --collab "Let’s build something stellar. 🌌"
-system standby... █
+$ exit
+System shutdown initiated...
+[Connection terminated]
