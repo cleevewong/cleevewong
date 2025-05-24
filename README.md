@@ -1,14 +1,32 @@
-<h1 align="center">🚀 Cleeve Philip Wong</h1>
-<p align="center"><strong>Frontend Architect | UI Engineer | Developer Advocate</strong></p>
+<h1 align="center">🖥️ Console Log: Cleeve Philip Wong</h1>
+<p align="center"><i>Frontend Architect | UI Engineer | Developer Advocate</i></p>
 
-<p align="center">
-  Building sleek, scalable, and user-first experiences with modern JavaScript tools.
-  I turn ideas into pixel-perfect interfaces with clarity and purpose.
-</p>
+Booting system...
+User: cleevephilip.wong@hcdc.edu.ph
+Portfolio loading...
+
+Welcome to my terminal 👨‍💻
+
+Initializing stack...
+
+✔ React
+✔ Next.js
+✔ TypeScript
+✔ Tailwind CSS
+✔ Firebase
+✔ Vite
+✔ pnpm
+✔ Git, ESLint, Prettier
+
+System ready.
+
+yaml
+Copy
+Edit
 
 ---
 
-## ✨ Philosophy
+## 📜 Philosophy
 
 > **Design with clarity. Code with purpose. Ship with confidence.**
 
@@ -16,25 +34,12 @@
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- ⚛️ React
-- 🧭 Next.js
-- 🪙 TypeScript
-- 💨 Tailwind CSS
-
-**Backend**
-- 🌿 Node.js
-- 🔥 Firebase
-
-**Design**
-- 🎨 Figma
-
-**Tooling**
-- ⚡ Vite
-- 📦 pnpm
-- 🧰 Git
-- ✅ ESLint
-- 🧹 Prettier
+| Category   | Tools |
+|------------|-------|
+| Frontend   | ⚛️ React, 🧭 Next.js, 🪙 TypeScript, 💨 Tailwind CSS |
+| Backend    | 🌿 Node.js, 🔥 Firebase |
+| Design     | 🎨 Figma |
+| Tooling    | ⚡ Vite, 📦 pnpm, 🧰 Git, ✅ ESLint, 🧹 Prettier |
 
 ---
 
@@ -46,17 +51,17 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect with Me
 
-- **GitHub:** [@CleevePhilip](https://github.com/CleevePhilip)
-- **LinkedIn:** [Cleeve Philip Wong](https://www.linkedin.com/in/cleeve-philip-wong-251b33279/)
-- **Email:** cleevephilip.wong@hcdc.edu.ph
+- GitHub → [@CleevePhilip](https://github.com/CleevePhilip)
+- LinkedIn → [Cleeve Philip Wong](https://www.linkedin.com/in/cleeve-philip-wong-251b33279/)
+- Email → [cleevephilip.wong@hcdc.edu.ph](mailto:cleevephilip.wong@hcdc.edu.ph)
 
 ---
 
-## 💬 Open to Collaborations
+## 💬 Let’s Collaborate
 
-I’m always open to working on exciting ideas, solving real-world problems, or contributing to impactful projects.  
-If you're passionate about clean UIs and thoughtful development—let’s talk.
+If you're building thoughtful, clean, and impactful digital experiences, I’d love to team up.
 
-<p align="center"><strong>Stay stellar. 🌌</strong></p>
+ping --collab "Let’s build something stellar. 🌌"
+system standby... █
