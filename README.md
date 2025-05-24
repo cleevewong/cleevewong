@@ -1,66 +1,55 @@
-╔══════════════════════════════════════════════════════════════╗
-║ ██████╗ ██╗     ███████╗███████╗██╗   ██╗███████╗           ║
-║██╔════╝ ██║     ██╔════╝██╔════╝██║   ██║██╔════╝           ║
-║██║  ███╗██║     █████╗  █████╗  ██║   ██║█████╗             ║
-║██║   ██║██║     ██╔══╝  ██╔══╝  ██║   ██║██╔══╝             ║
-║╚██████╔╝███████╗███████╗███████╗╚██████╔╝███████╗           ║
-║ ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝           ║
-║ ██╗    ██╗ ██████╗ ███╗   ██╗ ██████╗                      ║
-║ ██║    ██║██╔═══██╗████╗  ██║██╔════╝                      ║
-║ ██║ █╗ ██║██║   ██║██╔██╗ ██║██║  ███╗                     ║
-║ ██║███╗██║██║   ██║██║╚██╗██║██║   ██║                     ║
-║ ╚███╔███╔╝╚██████╔╝██║ ╚████║╚██████╔╝                     ║
-║  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝                      ║
-╚══════════════════════════════════════════════════════════════╝
+# Cleeve Wong
+### Frontend Architect | UI Engineer | Developer Advocate
 
+```bash
+# TERMINAL PROFILE
 $ whoami
-> Cleeve Philip Wong
-> Frontend Architect | UI Engineer | Developer Advocate
+───────────────────────────────────────────
+  Cleeve Wong 
+  ⎔ Building elegant digital experiences
+  ⎔ Open source contributor
+  ⎔ Developer advocate
 
-$ system --status
-✔ OS: Developer Workstation v3.2.1
-✔ Shell: zsh 5.9
-✔ Terminal: Hyper
-✔ Memory: 32GB DDR5
-✔ Processor: AMD Ryzen 9 7900X
+$ stack --highlight
+───────────────────────────────────────────
+  🚀 FRONTEND EXPERTISE:
+  • React/Next.js (Production-grade SPAs)
+  • TypeScript (Type-safe architectures)  
+  • Tailwind CSS (Design systems)
 
-$ stack --list
-FRONTEND:
-  ⚛️  React v18.2      🧭 Next.js v14
-  🪙 TypeScript v5.3   💨 Tailwind CSS v3.4
+  🔥 BACKEND SKILLS:
+  • Node.js (API development)
+  • Firebase (Fullstack solutions)
 
-BACKEND:
-  🌿 Node.js v20       🔥 Firebase v10.7
+  ⚙️ DEV TOOLS:
+  • Vite (Modern tooling)
+  • pnpm (Fast monorepos)
+  • Git (CI/CD pipelines)
 
-TOOLS:
-  ⚡ Vite v5.0         📦 pnpm v8.9
-  🧰 Git v2.40         ✅ ESLint v8.56
-  🧹 Prettier v3.1
+$ achievements
+───────────────────────────────────────────
+  🏆 GitHub Trophies:
+  • Arctic Code Vault Contributor 2023
+  • Pull Shark (2x) 
+  • Star Gazer (50+ starred repos)
 
-$ cat philosophy.txt
-> "Design with clarity. Code with purpose. Ship with confidence."
+  🎯 Notable Projects:
+  • Built scalable design systems
+  • Optimized web vitals (90+ scores)
+  • Created open source templates
 
-$ github --trophies
-┌───────────────────────────────────────────────────────┐
-│  ★ Arctic Code Vault Contributor (2023)              │
-│  ★ Pull Shark (2x)                                   │
-│  ★ Star Gazer (50+ repos)                            │
-└───────────────────────────────────────────────────────┘
+$ philosophy
+───────────────────────────────────────────
+  "Design with clarity. Code with purpose. Ship with confidence."
+  - Focus on performant, accessible UIs
+  - Advocate for best practices
+  - Mentor junior developers
 
-$ contact --info
-🌐 GitHub:    github.com/CleevePhilip
-💼 LinkedIn: linkedin.com/in/cleeve-philip-wong-251b33279
-📧 Email:     cleevephilip.wong@hcdc.edu.ph
-
-$ help --collaborate
-Available for:
-- Frontend architecture consulting
-- UI/UX engineering
-- Developer advocacy
-- Open source contributions
-
-Run: connect --with cleeve@terminal
+$ connect
+───────────────────────────────────────────
+  🌐 GitHub:    github.com/CleevePhilip
+  💼 LinkedIn: linkedin.com/in/cleeve-philip-wong  
+  📧 Email:     cleevephilip.wong@hcdc.edu.ph
+  💬 Let's collaborate on something great!
 
 $ exit
-> Shutting down terminal session...
-> Goodbye! 👋
