@@ -1,7 +1,3 @@
-# Cleeve Wong
-### Frontend Architect | UI Engineer | Developer Advocate
-
-```bash
 # TERMINAL PROFILE
 $ whoami
 ───────────────────────────────────────────
@@ -43,12 +39,12 @@ $ philosophy
   "Design with clarity. Code with purpose. Ship with confidence."
   - Focus on performant, accessible UIs
   - Advocate for best practices
-  - Mentor junior developers
+  - Mentor new developers
 
 $ connect
 ───────────────────────────────────────────
-  🌐 GitHub:    github.com/CleevePhilip
-  💼 LinkedIn: linkedin.com/in/cleeve-philip-wong  
+  🌐 GitHub:    [github.com/CleevePhilip](https://github.com/CleevePhilip)
+  💼 LinkedIn: [linkedin.com/in/cleeve-philip-wong](https://linkedin.com/in/cleeve-philip-wong)  
   📧 Email:     cleevephilip.wong@hcdc.edu.ph
   💬 Let's collaborate on something great!
 
