@@ -1,7 +1,7 @@
 # Cleeve Wong
 ### Frontend Architect | UI Engineer | Developer Advocate
 
-bash
+```bash
 # TERMINAL PROFILE
 $ whoami
 ───────────────────────────────────────────
@@ -52,4 +52,4 @@ $ connect
   📧 Email:     cleevephilip.wong@hcdc.edu.ph
   💬 Let's collaborate on something great!
 
-$ exit 
+$ exit
