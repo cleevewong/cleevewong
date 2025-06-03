@@ -1,5 +1,5 @@
 # Cleeve Wong
-### Craftsman of Code | UI Aesthetics Lead | Voice of Developers
+### Craftsman of Code 
 
 ```bash
 # TERMINAL PROFILE
