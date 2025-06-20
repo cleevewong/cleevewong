@@ -1,6 +1,4 @@
 # Cleeve Wong
-### Craftsman of Code 
-
 ```bash
 # TERMINAL PROFILE
 $ whoami
