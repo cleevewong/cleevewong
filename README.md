@@ -1,4 +1,3 @@
-# Cleeve Wong
 ```bash
 # TERMINAL PROFILE
 $ whoami
