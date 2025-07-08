@@ -16,12 +16,7 @@ $ stack --highlight
 
   🔥 BACKEND SKILLS:
   • Node.js (API development)
-  • Firebase (Fullstack solutions)
-
-  ⚙️ DEV TOOLS:
-  • Vite (Modern tooling)
-  • pnpm (Fast monorepos)
-  • Git (CI/CD pipelines)
+  • MySQL (Fullstack solutions)
 
 $ achievements
 ───────────────────────────────────────────
